@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Seol256 - Gnome Terminal color scheme install script
+# Seoul256 - Gnome Terminal color scheme install script
 # Anurag Soni
 
 [[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Seol256"
