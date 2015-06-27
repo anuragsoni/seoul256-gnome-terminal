@@ -2,8 +2,8 @@
 # Seoul256 - Gnome Terminal color scheme install script
 # Anurag Soni
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Seol256"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="seol256"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Seoul256"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="seoul256"
 [[ -z "$DCONF" ]] && DCONF=dconf
 [[ -z "$UUIDGEN" ]] && UUIDGEN=uuidgen
 
