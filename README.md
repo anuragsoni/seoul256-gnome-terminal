@@ -1,4 +1,4 @@
-# seol256-gnome-terminal
+# seoul256-gnome-terminal
 
 A port of the seol256-dark [vim theme](https://github.com/junegunn/seoul256.vim)
 
